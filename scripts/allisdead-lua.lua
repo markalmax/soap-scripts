@@ -5,4 +5,4 @@ local players = game:GetService("Players")
 			humanoid.Health=0;
 		end
 	end
-end	
+	
