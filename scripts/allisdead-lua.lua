@@ -1,1 +1,1 @@
-local player
+local players = game:GetService("Players")
