@@ -4,4 +4,5 @@ for _, player in ipairs(players:GetPlayers()) do
 	if humanoid then
 		humanoid.Health=0;
 	end
+end
 end	
